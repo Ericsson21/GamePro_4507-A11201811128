@@ -1,0 +1,7 @@
+Nama     : Ericsson Dhimas Niagara
+NIM      : A11.2018.11128
+KELOMPOK : A11.4507
+UTS      : Game Programming
+
+Link Github:
+https://github.com/Ericsson21/GamePro_4507-A11201811128 

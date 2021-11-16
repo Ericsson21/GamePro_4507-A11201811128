@@ -560,7 +560,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 68.6318
+  orthographic size: 61.72847
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -1131,7 +1131,7 @@ LineRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: bb88ff7c7bcaf0d449c17e76a98351ad, type: 2}
+  - {fileID: 2100000, guid: b678dbba6fb062843974e1233486afff, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
