@@ -7,4 +7,4 @@ Link Video :
 https://drive.google.com/file/d/1DZ1ZSb9dsMIY_Btz6K1vNvjRGulcWhpR/view?usp=sharing
 
 Link GitHub :
-https://github.com/Ericsson21/GamePro_4507-A11201811128/tree/master/UAS/UAS
+https://github.com/Ericsson21/GamePro_4507-A11201811128/tree/master/UAS
